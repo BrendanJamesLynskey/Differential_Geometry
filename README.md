@@ -2,6 +2,10 @@
 
 An interactive single-file HTML application for exploring key concepts in differential geometry through real-time 3D visualisation.
 
+### [Launch App](https://brendanjameslynskey.github.io/Differential_Geometry/)
+
+---
+
 ## Features
 
 ### 1. Surface Viewer with Curvature
@@ -36,10 +40,6 @@ An interactive single-file HTML application for exploring key concepts in differ
 - 3D projection via rotation matrices with orthographic projection
 - Geodesic integration uses Euler method with Christoffel symbols derived from metric tensor derivatives
 - Parallel transport on sphere computed analytically for accuracy
-
-## Usage
-
-Open `index.html` in any modern web browser. No build step or server required.
 
 ## Fonts
 
